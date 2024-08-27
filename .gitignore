@@ -1,0 +1,15 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore Tailwind input CSS file (if it's named input.css or similar)
+src/input.css
+
+# Ignore Tailwind output CSS file (if it's named output.css or similar)
+src/output.css
+
+# Ignore Tailwind config file
+tailwind.config.js
+
+# Ignore any other configuration files like package-lock.json (optional)
+package-lock.json
+
